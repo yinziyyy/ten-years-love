@@ -1,0 +1,6 @@
+deployed_at: 2026-10-12T13:52:05Z
+agents_version: 30
+setup_skill_version: 1.2.10
+target_cli: codex
+resolver_strategy: project-local-skill-reference
+references_dir: .codex/skills/story-setup/references/agent-references

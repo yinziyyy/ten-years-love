@@ -1,0 +1,30 @@
+{
+  "book_title": "他蹲了我十年直播间",
+  "characters": {},
+  "context": {
+    "active_character_names": [],
+    "continuity_risks": [],
+    "long_term_constraints": [
+      "十年暗恋信息差只对读者亮牌，不提前让温阮知情",
+      "修复工序与行业细节必须具体可查，不写悬浮术语",
+      "温阮的关键困局由她自己的专业判断与选择破局，傅衍舟只做场地与兜底"
+    ],
+    "next_chapter_commitments": [
+      "傅衍舟携霁蓝盏到馆送修，当众指名「我要阿阮修」；温阮在全场搜寻里按住身份；章末他的目光落在她的手上"
+    ],
+    "position": {
+      "scene": "江城市博物馆修复组",
+      "story_time": "开篇前夜（霁蓝盏送修当日清晨之前）",
+      "volume": "第一卷·榜一",
+      "volume_start_chapter": 1
+    },
+    "recent_chapters": []
+  },
+  "foreshadow": {},
+  "imported_through_chapter": 0,
+  "last_committed_chapter": 0,
+  "schema_version": 4,
+  "state_revision": 0,
+  "timeline": {},
+  "wordcount_records": {}
+}
